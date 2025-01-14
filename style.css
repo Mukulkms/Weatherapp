@@ -187,7 +187,7 @@ body,html{
 
 @media(max-width:840px){
    .bg img{
-     height: 180%;
+     height: 165%;
 }
 .search-container{
     margin: 0.5rem ;
