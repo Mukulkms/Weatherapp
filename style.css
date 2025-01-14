@@ -35,7 +35,9 @@ body,html{
 .search-container button:hover {
     background-color: #000000;
 }
-
+.location{
+    font-size:3vw;
+}
 .bg{
     position: relative;
     display: flex;
